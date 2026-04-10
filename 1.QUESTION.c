@@ -1,6 +1,6 @@
 #include<stdio.h>
 int* fun(int[],int[]);
-main()
+int main()
 {
     int *p;
     int a[10]={0,1,0,1,1,1}, b[10]={0,0,0,1,1,0};
